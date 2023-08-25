@@ -3,7 +3,7 @@ Used as a class test repo for experimenting with branching and permissions
 
 For this assignment, each table group should have one student clone this repository:
 
-  git clone https://github.com/DHS-CP/git-branching-test.git
+  git clone https://github.com/DHS-23-24-CSA-Schick/git-branching-test-P4.git
 
 Next, move into the top level of the code and do the following:
 
